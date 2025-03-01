@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Varshney</h1>
 <h3 align="center">I love turning raw data into meaningful insights and building data-driven solutions. With skills in statistics, machine learning, and visualization, I aim to solve real-world problems efficiently</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi7625&label=Profile%20views&color=0e75b6&style=flat" alt="khushi7625" /> </p>
+
 
 - 📫 How to reach me **khushivarshney7625@gmail.com**
 
